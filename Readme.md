@@ -22,3 +22,7 @@ deb http://apt-<name>.herokuapp.com/ubuntu lucid main
 # for precise:
 deb http://apt-<name>.herokuapp.com/ubuntu precise main
 ```
+
+## TODO
+
+1.  `gpg` signatures
