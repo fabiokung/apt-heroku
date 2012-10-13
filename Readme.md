@@ -26,3 +26,4 @@ deb http://apt-<name>.herokuapp.com/ubuntu precise main
 ## TODO
 
 1.  `gpg` signatures
+2.  use `.htaccess` redirects to store huge .deb files elsewhere (eg.: in S3 buckets).
